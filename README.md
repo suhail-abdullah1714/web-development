@@ -33,8 +33,8 @@ A beautiful, modern user registration form with SQLite database integration. Bui
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/user-registration-form.git
-cd user-registration-form
+git clone https://github.com/suhail-abdullah1714/web-development.git
+cd web-development
 ```
 
 ### 2. Initialize the Database
@@ -159,13 +159,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
+ file for details.
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-Your Name - [@yourhandle](https://github.com/yourusername)
 
 ## 🙏 Acknowledgments
 
@@ -175,5 +170,6 @@ Your Name - [@yourhandle](https://github.com/yourusername)
 ---
 
 **Note:** This project uses SQLite for simplicity and portability. For production use with high traffic, consider migrating to MySQL or PostgreSQL.
+
 
 
